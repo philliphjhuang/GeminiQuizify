@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     embed_config = {
         "model_name" : "textembedding-gecko@003",
-        "project"    : "geminiquizify",
+        "project"    : "your-project-name", # Enter your own project id,
         "location"   : "us-central1"
     }
 
